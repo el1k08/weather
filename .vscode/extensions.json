@@ -3,6 +3,6 @@
     "vue.volar",
     "vue.vscode-typescript-vue-plugin",
     "hollowtree.vue-snippets",
-    "Vue.volar"
+    "bradlc.vscode-tailwindcss"
   ]
 }
