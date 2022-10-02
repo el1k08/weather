@@ -12,6 +12,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/vue-fontawesome": "^3.0.1",
+    "dayjs": "^1.11.5",
     "flowbite": "^1.5.3",
     "pinia": "^2.0.21",
     "vue": "^3.2.38",

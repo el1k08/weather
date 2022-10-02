@@ -36,12 +36,7 @@
                 return 'fa-sun'
         }   
     })
-
-    onMounted(() => {
-        console.log(faIcon.value)
-    })
-
-
+    
 </script>
 
 <template>
